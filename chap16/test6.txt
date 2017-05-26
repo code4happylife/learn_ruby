@@ -1,0 +1,3 @@
+hello
+your enemy has been slain
+you hab=ve been slain.

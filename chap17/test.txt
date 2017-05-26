@@ -1,0 +1,3 @@
+Your turret has been destroyed!
+Your allay has been slain!
+Unstoppable!
